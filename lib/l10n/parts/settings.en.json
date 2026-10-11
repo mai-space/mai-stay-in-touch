@@ -1,0 +1,73 @@
+{
+  "settingsTitle": "Settings",
+  "settingsSuggestions": "Suggestions",
+  "settingsNotifications": "Daily notification",
+  "settingsNotificationsText": "With “Not today”, “Call” and “WhatsApp” right in the notification.",
+  "settingsTime": "Time",
+  "settingsDays": "On these days",
+  "settingsCountryCode": "Country code for WhatsApp",
+  "settingsCountryCodeText": "For numbers without a country code, e.g. 0171 …",
+  "settingsDiscreet": "Discreet: initials only",
+  "settingsDiscreetText": "Widget and watch show initials instead of names.",
+  "settingsContacts": "Contacts",
+  "settingsData": "Data",
+  "settingsPrivacy": "Privacy",
+  "settingsPrivacyText": "All data stays encrypted on this device. No account, no cloud, no internet permission, no analytics. From the address book the app only takes name and number, and only when you ask. It does not detect calls by itself – it counts what you tap or log in the app.",
+  "backupIntro": "Backup: all your data, encrypted in one file – for a new phone or just in case. It cannot be read without the password.",
+  "backupCreate": "Back up",
+  "backupRestore": "Restore",
+  "backupCreated": "Backup created",
+  "backupFailed": "Sorry, that did not work.",
+  "backupPassphrase": "Password",
+  "backupPassphraseCreateHint": "Choose a password for the backup. It cannot be restored without it – keep it safe!",
+  "backupPassphraseRestoreHint": "Backup password",
+  "backupPassphraseRepeat": "Repeat password",
+  "backupPassphraseMismatch": "Passwords do not match",
+  "backupPassphraseTooShort": "At least 8 characters",
+  "backupPick": "Choose backup",
+  "backupReplace": "Replace",
+  "backupRestoreConfirmTitle": "Replace all data?",
+  "backupRestoreConfirmText": "All contacts, the history and the settings on this device will be replaced by the backup.",
+  "backupRestored": "Backup from {date} restored",
+  "@backupRestored": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "backupShareSubject": "Ruf durch backup",
+  "backupTooNew": "This backup is from a newer app version. Please update the app.",
+  "backupUnsupported": "Backups are not available here.",
+  "backupWrongApp": "This is not a Ruf durch backup.",
+  "csvPeople": "Share contacts as table (CSV)",
+  "csvHistory": "Share history as table (CSV)",
+  "csvShareSubject": "Ruf durch – table",
+  "csvName": "Name",
+  "csvPhone": "Phone",
+  "csvImportance": "Importance",
+  "csvLastContact": "Last contact",
+  "csvPausedUntil": "Paused until",
+  "csvNote": "Note",
+  "csvDate": "Date",
+  "csvKind": "Type",
+  "notificationTitle": "Why not call {name} today? 📞",
+  "@notificationTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationBodyNew": "Today would be a good day for it.",
+  "notificationBodySince": "{count, plural, =1{You were last in touch yesterday.} other{You were last in touch {count} days ago.}}",
+  "@notificationBodySince": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationChannel": "Daily suggestion",
+  "notificationChannelDescription": "One contact a day you could get in touch with."
+}

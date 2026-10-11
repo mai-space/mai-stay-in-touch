@@ -1,0 +1,13 @@
+{
+  "historyEmptyTitle": "Noch kein Verlauf",
+  "historyEmptyText": "Hier landen Anrufe, Nachrichten und „Heute nicht“.",
+  "eventCalled": "Angerufen",
+  "eventMessaged": "WhatsApp geschrieben",
+  "eventDeclined": "Heute nicht",
+  "eventNoted": "Kontakt eingetragen",
+  "historyDeleted": "Eintrag gelöscht",
+  "historyRemovedPerson": "Entfernter Kontakt",
+  "statsWeek": "Letzte 7 Tage",
+  "statsMonth": "Letzte 30 Tage",
+  "statsPeople": "Verschiedene Personen (30 Tage)"
+}

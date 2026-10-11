@@ -1,0 +1,21 @@
+{
+  "onboardingWelcomeTitle": "Stay in touch",
+  "onboardingWelcomeText": "Every day Ruf durch suggests one person you could get in touch with – the more important they are to you, the more often.",
+  "onboardingPrivacyText": "Everything stays encrypted on your phone. No account, no cloud, no internet permission.",
+  "onboardingImportTitle": "Get your contacts",
+  "onboardingImportText": "Take over contacts from your address book and sort them afterwards. You can add more later.",
+  "onboardingImported": "{count, plural, =0{No contacts yet} =1{1 contact in the app} other{{count} contacts in the app}}",
+  "@onboardingImported": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onboardingNotifyTitle": "When suits you?",
+  "onboardingNotifyText": "At this time the suggestion arrives as a notification – with “Not today”, “Call” and “WhatsApp”.",
+  "onboardingNotifyButton": "Allow notifications",
+  "onboardingNotifyOn": "Notifications are on",
+  "onboardingStart": "Let’s go",
+  "onboardingLater": "Later"
+}

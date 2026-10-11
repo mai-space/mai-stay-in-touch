@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_app_name">Ruf durch</string>
+    <string name="watch_today_title">Heute anrufen</string>
+    <string name="watch_complication_label">Heute anrufen</string>
+    <string name="watch_today">Heute</string>
+    <string name="watch_tomorrow">Morgen</string>
+    <string name="watch_done">Erledigt</string>
+    <string name="watch_declined">Heute nicht</string>
+    <string name="watch_free">Heute kein Vorschlag</string>
+    <string name="watch_none">–</string>
+    <string name="watch_setup">Öffne Ruf durch auf dem Telefon</string>
+    <string name="watch_setup_short">Am Telefon öffnen</string>
+    <string name="watch_empty">Ordne deine Kontakte in der App ein</string>
+    <string name="watch_upcoming">Als Nächstes</string>
+    <string name="watch_call_on_phone">Anrufen übers Telefon oder die Benachrichtigung.</string>
+    <string name="watch_preview_name">Alex</string>
+    <string name="watch_preview_detail">vor 23 Tagen</string>
+</resources>

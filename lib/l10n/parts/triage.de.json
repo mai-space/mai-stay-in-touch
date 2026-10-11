@@ -1,0 +1,26 @@
+{
+  "triageTitle": "Einordnen",
+  "triageProgress": "{done} von {total}",
+  "@triageProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "triageQuestion": "Wie oft möchtest du dich bei dieser Person melden?",
+  "triageDoneTitle": "Alles eingeordnet",
+  "triageDoneText": "Ab jetzt gibt es jeden Tag einen Vorschlag. Die Einordnung kannst du jederzeit beim Kontakt ändern.",
+  "triageEmpty": "Alle Kontakte sind eingeordnet.",
+  "triageSkipped": "{count, plural, =1{1 übersprungen – kommt später wieder} other{{count} übersprungen – kommen später wieder}}",
+  "@triageSkipped": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

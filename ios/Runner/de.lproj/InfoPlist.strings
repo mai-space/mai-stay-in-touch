@@ -1,0 +1,3 @@
+/* Systemdialoge für Berechtigungen (Deutsch). */
+"CFBundleDisplayName" = "Ruf durch";
+"NSContactsUsageDescription" = "„Ruf durch“ übernimmt Namen und Telefonnummern deiner Kontakte, damit du sie einordnen kannst. Alles bleibt verschlüsselt auf dem Gerät.";

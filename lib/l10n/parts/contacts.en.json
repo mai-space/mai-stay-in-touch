@@ -1,0 +1,54 @@
+{
+  "contactsEmptyTitle": "No contacts yet",
+  "contactsEmptyText": "Get your contacts from the address book or add them by hand.",
+  "contactsAdd": "Add contact",
+  "contactsImport": "Import from address book",
+  "contactsFilterAll": "All",
+  "contactsNoMatch": "No matches",
+  "contactsPausedUntil": "Paused until {date}",
+  "@contactsPausedUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "contactImportance": "How often do you want to get in touch?",
+  "contactPause": "Pause",
+  "contactPauseWeek": "1 week",
+  "contactPauseMonth": "1 month",
+  "contactPauseQuarter": "3 months",
+  "contactResume": "End pause",
+  "contactPauseText": "No suggestions for this contact while paused – e.g. during a holiday.",
+  "contactWhatsApp": "Offer WhatsApp",
+  "contactNote": "Note",
+  "contactNoteHint": "e.g. what you want to ask about",
+  "contactHistory": "History",
+  "contactNoHistory": "Nothing logged yet",
+  "contactNotedDone": "Contact logged",
+  "contactRemove": "Remove from app",
+  "contactRemoveTitle": "Remove {name}?",
+  "@contactRemoveTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "contactRemoveText": "The contact will no longer be suggested and stays out on the next import. Your address book is not changed.",
+  "contactName": "Name",
+  "contactPhone": "Phone number",
+  "contactNameRequired": "Please enter a name",
+  "contactEdit": "Edit contact",
+  "contactStats": "{accepted} of {suggested} suggestions taken",
+  "@contactStats": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "suggested": {
+        "type": "int"
+      }
+    }
+  }
+}

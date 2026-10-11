@@ -1,0 +1,3 @@
+/* Permission dialogs (English). */
+"CFBundleDisplayName" = "Ruf durch";
+"NSContactsUsageDescription" = "Ruf durch imports names and phone numbers of your contacts so you can sort them. Everything stays encrypted on your device.";

@@ -1,0 +1,52 @@
+{
+  "appTitle": "Ruf durch",
+  "tabToday": "Today",
+  "tabContacts": "Contacts",
+  "tabHistory": "History",
+  "commonCancel": "Cancel",
+  "commonClose": "Close",
+  "commonContinue": "Continue",
+  "commonDelete": "Delete",
+  "commonDone": "Done",
+  "commonEdit": "Edit",
+  "commonRetry": "Try again",
+  "commonSave": "Save",
+  "commonSearch": "Search",
+  "commonSkip": "Skip",
+  "commonToday": "Today",
+  "commonTomorrow": "Tomorrow",
+  "commonUnderstood": "Got it",
+  "commonUndo": "Undo",
+  "actionCall": "Call",
+  "actionWhatsApp": "WhatsApp",
+  "actionLater": "Not today",
+  "actionAnother": "Someone else",
+  "actionNoted": "Log contact",
+  "importanceUnrated": "Not sorted",
+  "importanceNever": "Never suggest",
+  "importanceRarely": "Rarely",
+  "importanceSometimes": "Now and then",
+  "importanceOften": "Often",
+  "importanceVeryOften": "Very important",
+  "importanceHintNever": "Never shows up as a suggestion",
+  "importanceHintRarely": "About every three months",
+  "importanceHintSometimes": "About once a month",
+  "importanceHintOften": "About every two weeks",
+  "importanceHintVeryOften": "About every week",
+  "lastContactNever": "No contact logged yet",
+  "lastContactDays": "{count, plural, =0{In touch today} =1{Last contact yesterday} other{Last contact {count} days ago}}",
+  "@lastContactDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNumber": "No phone number saved",
+  "launchFailed": "Could not be opened",
+  "whatsAppFailed": "Could not open WhatsApp. Is the number saved with its country code?",
+  "keyUnavailableTitle": "Data not readable right now",
+  "keyUnavailableText": "The key for your encrypted data is not available right now. Your data is safe — try again in a moment or restart your device.",
+  "unreadableTitle": "Old data could not be read",
+  "unreadableText": "Your previous data could no longer be decrypted on this device and was set aside. Restore it from a backup (Settings → Data)."
+}

@@ -1,0 +1,54 @@
+{
+  "contactsEmptyTitle": "Noch keine Kontakte",
+  "contactsEmptyText": "Hol deine Kontakte aus dem Adressbuch oder leg sie von Hand an.",
+  "contactsAdd": "Kontakt hinzufügen",
+  "contactsImport": "Aus dem Adressbuch importieren",
+  "contactsFilterAll": "Alle",
+  "contactsNoMatch": "Keine Treffer",
+  "contactsPausedUntil": "Pausiert bis {date}",
+  "@contactsPausedUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "contactImportance": "Wie oft möchtest du dich melden?",
+  "contactPause": "Pausieren",
+  "contactPauseWeek": "1 Woche",
+  "contactPauseMonth": "1 Monat",
+  "contactPauseQuarter": "3 Monate",
+  "contactResume": "Pause beenden",
+  "contactPauseText": "Während der Pause gibt es keine Vorschläge für diesen Kontakt – z. B. im Urlaub.",
+  "contactWhatsApp": "WhatsApp anbieten",
+  "contactNote": "Notiz",
+  "contactNoteHint": "z. B. wonach du fragen willst",
+  "contactHistory": "Verlauf",
+  "contactNoHistory": "Noch nichts eingetragen",
+  "contactNotedDone": "Kontakt eingetragen",
+  "contactRemove": "Aus der App entfernen",
+  "contactRemoveTitle": "{name} entfernen?",
+  "@contactRemoveTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "contactRemoveText": "Der Kontakt wird nicht mehr vorgeschlagen und bleibt auch beim nächsten Import draußen. Dein Adressbuch bleibt unverändert.",
+  "contactName": "Name",
+  "contactPhone": "Telefonnummer",
+  "contactNameRequired": "Bitte einen Namen eingeben",
+  "contactEdit": "Kontakt bearbeiten",
+  "contactStats": "{accepted} von {suggested} Vorschlägen angenommen",
+  "@contactStats": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "suggested": {
+        "type": "int"
+      }
+    }
+  }
+}

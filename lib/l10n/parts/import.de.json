@@ -1,0 +1,27 @@
+{
+  "importTitle": "Kontakte importieren",
+  "importIntro": "Wähle, wen du übernehmen möchtest. Übernommen werden nur Name und Telefonnummer – verschlüsselt, nur auf diesem Gerät.",
+  "importSelectAll": "Alle auswählen",
+  "importSelectNone": "Keine auswählen",
+  "importButton": "{count, plural, =0{Nichts ausgewählt} =1{1 Kontakt übernehmen} other{{count} Kontakte übernehmen}}",
+  "@importButton": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importAlready": "Schon in der App",
+  "importDenied": "Ohne Zugriff auf die Kontakte geht der Import nicht. Du kannst Kontakte aber auch von Hand hinzufügen.",
+  "importOpenSettings": "Einstellungen öffnen",
+  "importNone": "Keine Kontakte mit Telefonnummer gefunden.",
+  "importResult": "{count, plural, =0{Nichts Neues übernommen} =1{1 Kontakt übernommen} other{{count} Kontakte übernommen}}",
+  "@importResult": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importUnsupported": "Der Import aus dem Adressbuch ist hier nicht verfügbar."
+}
