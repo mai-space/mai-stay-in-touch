@@ -1,0 +1,290 @@
+{
+  "@@locale": "de",
+  "appTitle": "Ruf durch",
+  "tabToday": "Heute",
+  "tabContacts": "Kontakte",
+  "tabHistory": "Verlauf",
+  "commonCancel": "Abbrechen",
+  "commonClose": "Schließen",
+  "commonContinue": "Weiter",
+  "commonDelete": "Löschen",
+  "commonDone": "Fertig",
+  "commonEdit": "Bearbeiten",
+  "commonRetry": "Erneut versuchen",
+  "commonSave": "Speichern",
+  "commonSearch": "Suchen",
+  "commonSkip": "Überspringen",
+  "commonToday": "Heute",
+  "commonTomorrow": "Morgen",
+  "commonUnderstood": "Verstanden",
+  "commonUndo": "Rückgängig",
+  "actionCall": "Anrufen",
+  "actionWhatsApp": "WhatsApp",
+  "actionLater": "Heute nicht",
+  "actionAnother": "Jemand anderen",
+  "actionNoted": "Kontakt eintragen",
+  "importanceUnrated": "Nicht eingeordnet",
+  "importanceNever": "Nie vorschlagen",
+  "importanceRarely": "Selten",
+  "importanceSometimes": "Ab und zu",
+  "importanceOften": "Oft",
+  "importanceVeryOften": "Sehr wichtig",
+  "importanceHintNever": "Taucht nie als Vorschlag auf",
+  "importanceHintRarely": "Etwa alle drei Monate",
+  "importanceHintSometimes": "Etwa einmal im Monat",
+  "importanceHintOften": "Etwa alle zwei Wochen",
+  "importanceHintVeryOften": "Etwa jede Woche",
+  "lastContactNever": "Noch kein Kontakt eingetragen",
+  "lastContactDays": "{count, plural, =0{Kontakt heute} =1{Letzter Kontakt gestern} other{Letzter Kontakt vor {count} Tagen}}",
+  "@lastContactDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNumber": "Keine Telefonnummer hinterlegt",
+  "launchFailed": "Konnte nicht geöffnet werden",
+  "whatsAppFailed": "WhatsApp ließ sich nicht öffnen. Ist die Nummer mit Vorwahl gespeichert?",
+  "keyUnavailableTitle": "Daten gerade nicht lesbar",
+  "keyUnavailableText": "Der Schlüssel deiner verschlüsselten Daten ist gerade nicht erreichbar. Deine Daten sind sicher — versuch es gleich noch einmal oder starte das Gerät neu.",
+  "unreadableTitle": "Alte Daten nicht lesbar",
+  "unreadableText": "Deine bisherigen Daten ließen sich auf diesem Gerät nicht mehr entschlüsseln und wurden beiseitegelegt. Stell sie über eine Sicherung wieder her (Einstellungen → Daten).",
+  "contactsEmptyTitle": "Noch keine Kontakte",
+  "contactsEmptyText": "Hol deine Kontakte aus dem Adressbuch oder leg sie von Hand an.",
+  "contactsAdd": "Kontakt hinzufügen",
+  "contactsImport": "Aus dem Adressbuch importieren",
+  "contactsFilterAll": "Alle",
+  "contactsNoMatch": "Keine Treffer",
+  "contactsPausedUntil": "Pausiert bis {date}",
+  "@contactsPausedUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "contactImportance": "Wie oft möchtest du dich melden?",
+  "contactPause": "Pausieren",
+  "contactPauseWeek": "1 Woche",
+  "contactPauseMonth": "1 Monat",
+  "contactPauseQuarter": "3 Monate",
+  "contactResume": "Pause beenden",
+  "contactPauseText": "Während der Pause gibt es keine Vorschläge für diesen Kontakt – z. B. im Urlaub.",
+  "contactWhatsApp": "WhatsApp anbieten",
+  "contactNote": "Notiz",
+  "contactNoteHint": "z. B. wonach du fragen willst",
+  "contactHistory": "Verlauf",
+  "contactNoHistory": "Noch nichts eingetragen",
+  "contactNotedDone": "Kontakt eingetragen",
+  "contactRemove": "Aus der App entfernen",
+  "contactRemoveTitle": "{name} entfernen?",
+  "@contactRemoveTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "contactRemoveText": "Der Kontakt wird nicht mehr vorgeschlagen und bleibt auch beim nächsten Import draußen. Dein Adressbuch bleibt unverändert.",
+  "contactName": "Name",
+  "contactPhone": "Telefonnummer",
+  "contactNameRequired": "Bitte einen Namen eingeben",
+  "contactEdit": "Kontakt bearbeiten",
+  "contactStats": "{accepted} von {suggested} Vorschlägen angenommen",
+  "@contactStats": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "suggested": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEmptyTitle": "Noch kein Verlauf",
+  "historyEmptyText": "Hier landen Anrufe, Nachrichten und „Heute nicht“.",
+  "eventCalled": "Angerufen",
+  "eventMessaged": "WhatsApp geschrieben",
+  "eventDeclined": "Heute nicht",
+  "eventNoted": "Kontakt eingetragen",
+  "historyDeleted": "Eintrag gelöscht",
+  "historyRemovedPerson": "Entfernter Kontakt",
+  "statsWeek": "Letzte 7 Tage",
+  "statsMonth": "Letzte 30 Tage",
+  "statsPeople": "Verschiedene Personen (30 Tage)",
+  "importTitle": "Kontakte importieren",
+  "importIntro": "Wähle, wen du übernehmen möchtest. Übernommen werden nur Name und Telefonnummer – verschlüsselt, nur auf diesem Gerät.",
+  "importSelectAll": "Alle auswählen",
+  "importSelectNone": "Keine auswählen",
+  "importButton": "{count, plural, =0{Nichts ausgewählt} =1{1 Kontakt übernehmen} other{{count} Kontakte übernehmen}}",
+  "@importButton": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importAlready": "Schon in der App",
+  "importDenied": "Ohne Zugriff auf die Kontakte geht der Import nicht. Du kannst Kontakte aber auch von Hand hinzufügen.",
+  "importOpenSettings": "Einstellungen öffnen",
+  "importNone": "Keine Kontakte mit Telefonnummer gefunden.",
+  "importResult": "{count, plural, =0{Nichts Neues übernommen} =1{1 Kontakt übernommen} other{{count} Kontakte übernommen}}",
+  "@importResult": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importUnsupported": "Der Import aus dem Adressbuch ist hier nicht verfügbar.",
+  "onboardingWelcomeTitle": "Bleib in Kontakt",
+  "onboardingWelcomeText": "Jeden Tag schlägt Ruf durch dir eine Person vor, bei der du dich melden könntest – je wichtiger sie dir ist, desto öfter.",
+  "onboardingPrivacyText": "Alles bleibt verschlüsselt auf deinem Handy. Kein Konto, keine Cloud, keine Internet-Berechtigung.",
+  "onboardingImportTitle": "Kontakte holen",
+  "onboardingImportText": "Übernimm Kontakte aus deinem Adressbuch und ordne sie danach ein. Du kannst auch später noch welche hinzufügen.",
+  "onboardingImported": "{count, plural, =0{Noch keine Kontakte} =1{1 Kontakt in der App} other{{count} Kontakte in der App}}",
+  "@onboardingImported": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onboardingNotifyTitle": "Wann passt es dir?",
+  "onboardingNotifyText": "Zu dieser Uhrzeit kommt der Vorschlag als Benachrichtigung – mit „Heute nicht“, „Anrufen“ und „WhatsApp“.",
+  "onboardingNotifyButton": "Benachrichtigung erlauben",
+  "onboardingNotifyOn": "Benachrichtigung ist an",
+  "onboardingStart": "Los geht’s",
+  "onboardingLater": "Später",
+  "settingsTitle": "Einstellungen",
+  "settingsSuggestions": "Vorschläge",
+  "settingsNotifications": "Tägliche Benachrichtigung",
+  "settingsNotificationsText": "Mit „Heute nicht“, „Anrufen“ und „WhatsApp“ direkt in der Benachrichtigung.",
+  "settingsTime": "Uhrzeit",
+  "settingsDays": "An diesen Tagen",
+  "settingsCountryCode": "Ländervorwahl für WhatsApp",
+  "settingsCountryCodeText": "Für Nummern ohne Vorwahl, z. B. 0171 …",
+  "settingsDiscreet": "Diskret: nur Initialen",
+  "settingsDiscreetText": "Widget und Uhr zeigen Initialen statt Namen.",
+  "settingsContacts": "Kontakte",
+  "settingsData": "Daten",
+  "settingsPrivacy": "Datenschutz",
+  "settingsPrivacyText": "Alle Daten bleiben verschlüsselt auf diesem Gerät. Kein Konto, keine Cloud, keine Internet-Berechtigung, keine Analyse. Aus dem Adressbuch übernimmt die App nur Name und Nummer, und nur auf deinen Wunsch. Anrufe erkennt sie nicht selbst – gezählt wird, was du in der App antippst oder einträgst.",
+  "backupIntro": "Sicherung: alle Daten verschlüsselt in einer Datei – für ein neues Handy oder zur Vorsorge. Ohne Passwort ist sie nicht lesbar.",
+  "backupCreate": "Sichern",
+  "backupRestore": "Wiederherstellen",
+  "backupCreated": "Sicherung erstellt",
+  "backupFailed": "Das hat leider nicht geklappt.",
+  "backupPassphrase": "Passwort",
+  "backupPassphraseCreateHint": "Wähle ein Passwort für die Sicherung. Ohne dieses Passwort lässt sie sich nicht wiederherstellen – gut merken!",
+  "backupPassphraseRestoreHint": "Passwort der Sicherung",
+  "backupPassphraseRepeat": "Passwort wiederholen",
+  "backupPassphraseMismatch": "Die Passwörter stimmen nicht überein",
+  "backupPassphraseTooShort": "Mindestens 8 Zeichen",
+  "backupPick": "Sicherung auswählen",
+  "backupReplace": "Ersetzen",
+  "backupRestoreConfirmTitle": "Alle Daten ersetzen?",
+  "backupRestoreConfirmText": "Alle Kontakte, der Verlauf und die Einstellungen auf diesem Gerät werden durch die Sicherung ersetzt.",
+  "backupRestored": "Sicherung vom {date} wiederhergestellt",
+  "@backupRestored": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "backupShareSubject": "Ruf-durch-Sicherung",
+  "backupTooNew": "Diese Sicherung stammt aus einer neueren App-Version. Bitte aktualisiere die App.",
+  "backupUnsupported": "Sicherungen sind hier nicht verfügbar.",
+  "backupWrongApp": "Das ist keine Sicherung von Ruf durch.",
+  "csvPeople": "Kontakte als Tabelle teilen (CSV)",
+  "csvHistory": "Verlauf als Tabelle teilen (CSV)",
+  "csvShareSubject": "Ruf durch – Tabelle",
+  "csvName": "Name",
+  "csvPhone": "Telefon",
+  "csvImportance": "Wichtigkeit",
+  "csvLastContact": "Letzter Kontakt",
+  "csvPausedUntil": "Pausiert bis",
+  "csvNote": "Notiz",
+  "csvDate": "Datum",
+  "csvKind": "Art",
+  "notificationTitle": "Ruf doch mal {name} an 📞",
+  "@notificationTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationBodyNew": "Heute wäre ein guter Tag dafür.",
+  "notificationBodySince": "{count, plural, =1{Euer letzter Kontakt war gestern.} other{Euer letzter Kontakt ist {count} Tage her.}}",
+  "@notificationBodySince": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationChannel": "Tagesvorschlag",
+  "notificationChannelDescription": "Ein Kontakt pro Tag, bei dem du dich melden könntest.",
+  "todaySuggestion": "Heute melden bei",
+  "todayDone": "Erledigt – schön, dass ihr Kontakt hattet!",
+  "todayDeclined": "Heute nicht – morgen gibt es einen neuen Vorschlag.",
+  "todayFree": "Heute ist kein Vorschlagstag.",
+  "todayFreeAction": "Trotzdem jemanden vorschlagen",
+  "todayEmptyTitle": "Noch niemand zum Vorschlagen",
+  "todayEmptyText": "Importiere deine Kontakte und ordne ein, wie wichtig sie dir sind. Dann gibt es jeden Tag einen Vorschlag.",
+  "todayNobody": "Gerade ist niemand fällig. Schön, dass du so gut in Kontakt bist!",
+  "todayImport": "Kontakte importieren",
+  "todayUnrated": "{count, plural, =1{1 Kontakt ist noch nicht eingeordnet} other{{count} Kontakte sind noch nicht eingeordnet}}",
+  "@todayUnrated": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaySort": "Einordnen",
+  "todayWeek": "{count, plural, =0{In den letzten 7 Tagen noch kein Kontakt} =1{1 Kontakt in den letzten 7 Tagen} other{{count} Kontakte in den letzten 7 Tagen}}",
+  "@todayWeek": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "upcomingTitle": "Demnächst",
+  "upcomingHint": "Vorschau – sie ändert sich mit jedem Anruf und jedem „Heute nicht“.",
+  "upcomingEmpty": "Keine weiteren Vorschläge",
+  "todayAnotherNone": "Gerade ist niemand anderes fällig.",
+  "triageTitle": "Einordnen",
+  "triageProgress": "{done} von {total}",
+  "@triageProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "triageQuestion": "Wie oft möchtest du dich bei dieser Person melden?",
+  "triageDoneTitle": "Alles eingeordnet",
+  "triageDoneText": "Ab jetzt gibt es jeden Tag einen Vorschlag. Die Einordnung kannst du jederzeit beim Kontakt ändern.",
+  "triageEmpty": "Alle Kontakte sind eingeordnet.",
+  "triageSkipped": "{count, plural, =1{1 übersprungen – kommt später wieder} other{{count} übersprungen – kommen später wieder}}",
+  "@triageSkipped": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "widgetTitle": "Heute anrufen",
+  "widgetDone": "Erledigt",
+  "widgetDeclined": "Heute nicht",
+  "widgetFree": "Heute frei",
+  "widgetEmpty": "Öffne Ruf durch zum Einordnen"
+}

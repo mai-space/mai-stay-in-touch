@@ -1,0 +1,73 @@
+{
+  "settingsTitle": "Einstellungen",
+  "settingsSuggestions": "Vorschläge",
+  "settingsNotifications": "Tägliche Benachrichtigung",
+  "settingsNotificationsText": "Mit „Heute nicht“, „Anrufen“ und „WhatsApp“ direkt in der Benachrichtigung.",
+  "settingsTime": "Uhrzeit",
+  "settingsDays": "An diesen Tagen",
+  "settingsCountryCode": "Ländervorwahl für WhatsApp",
+  "settingsCountryCodeText": "Für Nummern ohne Vorwahl, z. B. 0171 …",
+  "settingsDiscreet": "Diskret: nur Initialen",
+  "settingsDiscreetText": "Widget und Uhr zeigen Initialen statt Namen.",
+  "settingsContacts": "Kontakte",
+  "settingsData": "Daten",
+  "settingsPrivacy": "Datenschutz",
+  "settingsPrivacyText": "Alle Daten bleiben verschlüsselt auf diesem Gerät. Kein Konto, keine Cloud, keine Internet-Berechtigung, keine Analyse. Aus dem Adressbuch übernimmt die App nur Name und Nummer, und nur auf deinen Wunsch. Anrufe erkennt sie nicht selbst – gezählt wird, was du in der App antippst oder einträgst.",
+  "backupIntro": "Sicherung: alle Daten verschlüsselt in einer Datei – für ein neues Handy oder zur Vorsorge. Ohne Passwort ist sie nicht lesbar.",
+  "backupCreate": "Sichern",
+  "backupRestore": "Wiederherstellen",
+  "backupCreated": "Sicherung erstellt",
+  "backupFailed": "Das hat leider nicht geklappt.",
+  "backupPassphrase": "Passwort",
+  "backupPassphraseCreateHint": "Wähle ein Passwort für die Sicherung. Ohne dieses Passwort lässt sie sich nicht wiederherstellen – gut merken!",
+  "backupPassphraseRestoreHint": "Passwort der Sicherung",
+  "backupPassphraseRepeat": "Passwort wiederholen",
+  "backupPassphraseMismatch": "Die Passwörter stimmen nicht überein",
+  "backupPassphraseTooShort": "Mindestens 8 Zeichen",
+  "backupPick": "Sicherung auswählen",
+  "backupReplace": "Ersetzen",
+  "backupRestoreConfirmTitle": "Alle Daten ersetzen?",
+  "backupRestoreConfirmText": "Alle Kontakte, der Verlauf und die Einstellungen auf diesem Gerät werden durch die Sicherung ersetzt.",
+  "backupRestored": "Sicherung vom {date} wiederhergestellt",
+  "@backupRestored": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "backupShareSubject": "Ruf-durch-Sicherung",
+  "backupTooNew": "Diese Sicherung stammt aus einer neueren App-Version. Bitte aktualisiere die App.",
+  "backupUnsupported": "Sicherungen sind hier nicht verfügbar.",
+  "backupWrongApp": "Das ist keine Sicherung von Ruf durch.",
+  "csvPeople": "Kontakte als Tabelle teilen (CSV)",
+  "csvHistory": "Verlauf als Tabelle teilen (CSV)",
+  "csvShareSubject": "Ruf durch – Tabelle",
+  "csvName": "Name",
+  "csvPhone": "Telefon",
+  "csvImportance": "Wichtigkeit",
+  "csvLastContact": "Letzter Kontakt",
+  "csvPausedUntil": "Pausiert bis",
+  "csvNote": "Notiz",
+  "csvDate": "Datum",
+  "csvKind": "Art",
+  "notificationTitle": "Ruf doch mal {name} an 📞",
+  "@notificationTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationBodyNew": "Heute wäre ein guter Tag dafür.",
+  "notificationBodySince": "{count, plural, =1{Euer letzter Kontakt war gestern.} other{Euer letzter Kontakt ist {count} Tage her.}}",
+  "@notificationBodySince": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationChannel": "Tagesvorschlag",
+  "notificationChannelDescription": "Ein Kontakt pro Tag, bei dem du dich melden könntest."
+}

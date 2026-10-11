@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_label">Heute anrufen</string>
+    <string name="widget_description">Der Vorschlag von heute mit Anrufen, WhatsApp und Heute nicht — je ein Tipp.</string>
+    <string name="widget_setup">Öffne Ruf durch zum Einrichten</string>
+    <string name="widget_call">Anrufen</string>
+    <string name="widget_whatsapp">WhatsApp</string>
+    <string name="widget_later">Heute nicht</string>
+    <string name="widget_preview_name">Alex Beispiel</string>
+    <string name="widget_preview_detail">Letzter Kontakt vor 23 Tagen</string>
+</resources>

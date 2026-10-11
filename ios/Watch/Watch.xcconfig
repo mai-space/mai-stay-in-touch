@@ -1,0 +1,3 @@
+// Uhr-App und Komplikationen: Version wie die iPhone-App (Flutter schreibt
+// FLUTTER_BUILD_NAME/-NUMBER nach Generated.xcconfig). Ohne Pods.
+#include? "../Flutter/Generated.xcconfig"

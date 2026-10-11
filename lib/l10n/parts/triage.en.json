@@ -1,0 +1,26 @@
+{
+  "triageTitle": "Sort contacts",
+  "triageProgress": "{done} of {total}",
+  "@triageProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "triageQuestion": "How often do you want to get in touch with this person?",
+  "triageDoneTitle": "All sorted",
+  "triageDoneText": "From now on you get a suggestion every day. You can change the sorting on each contact at any time.",
+  "triageEmpty": "All contacts are sorted.",
+  "triageSkipped": "{count, plural, =1{1 skipped – will come up again later} other{{count} skipped – will come up again later}}",
+  "@triageSkipped": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

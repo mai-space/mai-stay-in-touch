@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_app_name">Ruf durch</string>
+    <string name="watch_today_title">Call today</string>
+    <string name="watch_complication_label">Call today</string>
+    <string name="watch_today">Today</string>
+    <string name="watch_tomorrow">Tomorrow</string>
+    <string name="watch_done">Done</string>
+    <string name="watch_declined">Not today</string>
+    <string name="watch_free">No suggestion today</string>
+    <string name="watch_none">–</string>
+    <string name="watch_setup">Open Ruf durch on your phone</string>
+    <string name="watch_setup_short">Open on phone</string>
+    <string name="watch_empty">Sort your contacts in the app</string>
+    <string name="watch_upcoming">Coming up</string>
+    <string name="watch_call_on_phone">Call from your phone or via the notification.</string>
+    <string name="watch_preview_name">Alex</string>
+    <string name="watch_preview_detail">23 days ago</string>
+</resources>

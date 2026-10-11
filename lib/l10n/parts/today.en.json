@@ -1,0 +1,32 @@
+{
+  "todaySuggestion": "Reach out today to",
+  "todayDone": "Done – nice that you got in touch!",
+  "todayDeclined": "Not today – there is a new suggestion tomorrow.",
+  "todayFree": "No suggestion scheduled for today.",
+  "todayFreeAction": "Suggest someone anyway",
+  "todayEmptyTitle": "No one to suggest yet",
+  "todayEmptyText": "Import your contacts and sort them by how important they are to you. Then you get a suggestion every day.",
+  "todayNobody": "No one is due right now. Nice that you are so well in touch!",
+  "todayImport": "Import contacts",
+  "todayUnrated": "{count, plural, =1{1 contact is not sorted yet} other{{count} contacts are not sorted yet}}",
+  "@todayUnrated": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaySort": "Sort",
+  "todayWeek": "{count, plural, =0{No contacts in the last 7 days} =1{1 contact in the last 7 days} other{{count} contacts in the last 7 days}}",
+  "@todayWeek": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "upcomingTitle": "Coming up",
+  "upcomingHint": "Preview – it changes with every call and every “Not today”.",
+  "upcomingEmpty": "No further suggestions",
+  "todayAnotherNone": "No one else is due right now."
+}

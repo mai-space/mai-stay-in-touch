@@ -1,0 +1,32 @@
+{
+  "todaySuggestion": "Heute melden bei",
+  "todayDone": "Erledigt – schön, dass ihr Kontakt hattet!",
+  "todayDeclined": "Heute nicht – morgen gibt es einen neuen Vorschlag.",
+  "todayFree": "Heute ist kein Vorschlagstag.",
+  "todayFreeAction": "Trotzdem jemanden vorschlagen",
+  "todayEmptyTitle": "Noch niemand zum Vorschlagen",
+  "todayEmptyText": "Importiere deine Kontakte und ordne ein, wie wichtig sie dir sind. Dann gibt es jeden Tag einen Vorschlag.",
+  "todayNobody": "Gerade ist niemand fällig. Schön, dass du so gut in Kontakt bist!",
+  "todayImport": "Kontakte importieren",
+  "todayUnrated": "{count, plural, =1{1 Kontakt ist noch nicht eingeordnet} other{{count} Kontakte sind noch nicht eingeordnet}}",
+  "@todayUnrated": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaySort": "Einordnen",
+  "todayWeek": "{count, plural, =0{In den letzten 7 Tagen noch kein Kontakt} =1{1 Kontakt in den letzten 7 Tagen} other{{count} Kontakte in den letzten 7 Tagen}}",
+  "@todayWeek": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "upcomingTitle": "Demnächst",
+  "upcomingHint": "Vorschau – sie ändert sich mit jedem Anruf und jedem „Heute nicht“.",
+  "upcomingEmpty": "Keine weiteren Vorschläge",
+  "todayAnotherNone": "Gerade ist niemand anderes fällig."
+}

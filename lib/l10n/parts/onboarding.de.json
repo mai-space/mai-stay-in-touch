@@ -1,0 +1,21 @@
+{
+  "onboardingWelcomeTitle": "Bleib in Kontakt",
+  "onboardingWelcomeText": "Jeden Tag schlägt Ruf durch dir eine Person vor, bei der du dich melden könntest – je wichtiger sie dir ist, desto öfter.",
+  "onboardingPrivacyText": "Alles bleibt verschlüsselt auf deinem Handy. Kein Konto, keine Cloud, keine Internet-Berechtigung.",
+  "onboardingImportTitle": "Kontakte holen",
+  "onboardingImportText": "Übernimm Kontakte aus deinem Adressbuch und ordne sie danach ein. Du kannst auch später noch welche hinzufügen.",
+  "onboardingImported": "{count, plural, =0{Noch keine Kontakte} =1{1 Kontakt in der App} other{{count} Kontakte in der App}}",
+  "@onboardingImported": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onboardingNotifyTitle": "Wann passt es dir?",
+  "onboardingNotifyText": "Zu dieser Uhrzeit kommt der Vorschlag als Benachrichtigung – mit „Heute nicht“, „Anrufen“ und „WhatsApp“.",
+  "onboardingNotifyButton": "Benachrichtigung erlauben",
+  "onboardingNotifyOn": "Benachrichtigung ist an",
+  "onboardingStart": "Los geht’s",
+  "onboardingLater": "Später"
+}

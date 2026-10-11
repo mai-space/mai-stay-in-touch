@@ -1,0 +1,52 @@
+{
+  "appTitle": "Ruf durch",
+  "tabToday": "Heute",
+  "tabContacts": "Kontakte",
+  "tabHistory": "Verlauf",
+  "commonCancel": "Abbrechen",
+  "commonClose": "Schließen",
+  "commonContinue": "Weiter",
+  "commonDelete": "Löschen",
+  "commonDone": "Fertig",
+  "commonEdit": "Bearbeiten",
+  "commonRetry": "Erneut versuchen",
+  "commonSave": "Speichern",
+  "commonSearch": "Suchen",
+  "commonSkip": "Überspringen",
+  "commonToday": "Heute",
+  "commonTomorrow": "Morgen",
+  "commonUnderstood": "Verstanden",
+  "commonUndo": "Rückgängig",
+  "actionCall": "Anrufen",
+  "actionWhatsApp": "WhatsApp",
+  "actionLater": "Heute nicht",
+  "actionAnother": "Jemand anderen",
+  "actionNoted": "Kontakt eintragen",
+  "importanceUnrated": "Nicht eingeordnet",
+  "importanceNever": "Nie vorschlagen",
+  "importanceRarely": "Selten",
+  "importanceSometimes": "Ab und zu",
+  "importanceOften": "Oft",
+  "importanceVeryOften": "Sehr wichtig",
+  "importanceHintNever": "Taucht nie als Vorschlag auf",
+  "importanceHintRarely": "Etwa alle drei Monate",
+  "importanceHintSometimes": "Etwa einmal im Monat",
+  "importanceHintOften": "Etwa alle zwei Wochen",
+  "importanceHintVeryOften": "Etwa jede Woche",
+  "lastContactNever": "Noch kein Kontakt eingetragen",
+  "lastContactDays": "{count, plural, =0{Kontakt heute} =1{Letzter Kontakt gestern} other{Letzter Kontakt vor {count} Tagen}}",
+  "@lastContactDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNumber": "Keine Telefonnummer hinterlegt",
+  "launchFailed": "Konnte nicht geöffnet werden",
+  "whatsAppFailed": "WhatsApp ließ sich nicht öffnen. Ist die Nummer mit Vorwahl gespeichert?",
+  "keyUnavailableTitle": "Daten gerade nicht lesbar",
+  "keyUnavailableText": "Der Schlüssel deiner verschlüsselten Daten ist gerade nicht erreichbar. Deine Daten sind sicher — versuch es gleich noch einmal oder starte das Gerät neu.",
+  "unreadableTitle": "Alte Daten nicht lesbar",
+  "unreadableText": "Deine bisherigen Daten ließen sich auf diesem Gerät nicht mehr entschlüsseln und wurden beiseitegelegt. Stell sie über eine Sicherung wieder her (Einstellungen → Daten)."
+}

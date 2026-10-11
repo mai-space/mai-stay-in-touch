@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Texte des Homescreen-Widgets, die ohne App-Stand gebraucht werden
+     (Widget-Auswahl, Platzhalter, Bedienhilfen). Alles andere liefert die App. -->
+<resources>
+    <string name="widget_label">Call today</string>
+    <string name="widget_description">Today\'s suggestion with Call, WhatsApp and Not today — one tap each.</string>
+    <string name="widget_setup">Open Ruf durch to get started</string>
+    <string name="widget_call">Call</string>
+    <string name="widget_whatsapp">WhatsApp</string>
+    <string name="widget_later">Not today</string>
+    <string name="widget_preview_name">Alex Example</string>
+    <string name="widget_preview_detail">Last contact 23 days ago</string>
+</resources>

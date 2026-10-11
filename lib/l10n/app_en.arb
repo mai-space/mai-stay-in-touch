@@ -1,0 +1,290 @@
+{
+  "@@locale": "en",
+  "appTitle": "Ruf durch",
+  "tabToday": "Today",
+  "tabContacts": "Contacts",
+  "tabHistory": "History",
+  "commonCancel": "Cancel",
+  "commonClose": "Close",
+  "commonContinue": "Continue",
+  "commonDelete": "Delete",
+  "commonDone": "Done",
+  "commonEdit": "Edit",
+  "commonRetry": "Try again",
+  "commonSave": "Save",
+  "commonSearch": "Search",
+  "commonSkip": "Skip",
+  "commonToday": "Today",
+  "commonTomorrow": "Tomorrow",
+  "commonUnderstood": "Got it",
+  "commonUndo": "Undo",
+  "actionCall": "Call",
+  "actionWhatsApp": "WhatsApp",
+  "actionLater": "Not today",
+  "actionAnother": "Someone else",
+  "actionNoted": "Log contact",
+  "importanceUnrated": "Not sorted",
+  "importanceNever": "Never suggest",
+  "importanceRarely": "Rarely",
+  "importanceSometimes": "Now and then",
+  "importanceOften": "Often",
+  "importanceVeryOften": "Very important",
+  "importanceHintNever": "Never shows up as a suggestion",
+  "importanceHintRarely": "About every three months",
+  "importanceHintSometimes": "About once a month",
+  "importanceHintOften": "About every two weeks",
+  "importanceHintVeryOften": "About every week",
+  "lastContactNever": "No contact logged yet",
+  "lastContactDays": "{count, plural, =0{In touch today} =1{Last contact yesterday} other{Last contact {count} days ago}}",
+  "@lastContactDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNumber": "No phone number saved",
+  "launchFailed": "Could not be opened",
+  "whatsAppFailed": "Could not open WhatsApp. Is the number saved with its country code?",
+  "keyUnavailableTitle": "Data not readable right now",
+  "keyUnavailableText": "The key for your encrypted data is not available right now. Your data is safe — try again in a moment or restart your device.",
+  "unreadableTitle": "Old data could not be read",
+  "unreadableText": "Your previous data could no longer be decrypted on this device and was set aside. Restore it from a backup (Settings → Data).",
+  "contactsEmptyTitle": "No contacts yet",
+  "contactsEmptyText": "Get your contacts from the address book or add them by hand.",
+  "contactsAdd": "Add contact",
+  "contactsImport": "Import from address book",
+  "contactsFilterAll": "All",
+  "contactsNoMatch": "No matches",
+  "contactsPausedUntil": "Paused until {date}",
+  "@contactsPausedUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "contactImportance": "How often do you want to get in touch?",
+  "contactPause": "Pause",
+  "contactPauseWeek": "1 week",
+  "contactPauseMonth": "1 month",
+  "contactPauseQuarter": "3 months",
+  "contactResume": "End pause",
+  "contactPauseText": "No suggestions for this contact while paused – e.g. during a holiday.",
+  "contactWhatsApp": "Offer WhatsApp",
+  "contactNote": "Note",
+  "contactNoteHint": "e.g. what you want to ask about",
+  "contactHistory": "History",
+  "contactNoHistory": "Nothing logged yet",
+  "contactNotedDone": "Contact logged",
+  "contactRemove": "Remove from app",
+  "contactRemoveTitle": "Remove {name}?",
+  "@contactRemoveTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "contactRemoveText": "The contact will no longer be suggested and stays out on the next import. Your address book is not changed.",
+  "contactName": "Name",
+  "contactPhone": "Phone number",
+  "contactNameRequired": "Please enter a name",
+  "contactEdit": "Edit contact",
+  "contactStats": "{accepted} of {suggested} suggestions taken",
+  "@contactStats": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "suggested": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEmptyTitle": "No history yet",
+  "historyEmptyText": "Calls, messages and “Not today” show up here.",
+  "eventCalled": "Called",
+  "eventMessaged": "Sent a WhatsApp",
+  "eventDeclined": "Not today",
+  "eventNoted": "Contact logged",
+  "historyDeleted": "Entry deleted",
+  "historyRemovedPerson": "Removed contact",
+  "statsWeek": "Last 7 days",
+  "statsMonth": "Last 30 days",
+  "statsPeople": "Different people (30 days)",
+  "importTitle": "Import contacts",
+  "importIntro": "Choose whom to add. Only name and phone number are taken over – encrypted, only on this device.",
+  "importSelectAll": "Select all",
+  "importSelectNone": "Select none",
+  "importButton": "{count, plural, =0{Nothing selected} =1{Add 1 contact} other{Add {count} contacts}}",
+  "@importButton": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importAlready": "Already in the app",
+  "importDenied": "Import needs access to your contacts. You can also add contacts by hand.",
+  "importOpenSettings": "Open settings",
+  "importNone": "No contacts with a phone number found.",
+  "importResult": "{count, plural, =0{Nothing new added} =1{1 contact added} other{{count} contacts added}}",
+  "@importResult": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importUnsupported": "Importing from the address book is not available here.",
+  "onboardingWelcomeTitle": "Stay in touch",
+  "onboardingWelcomeText": "Every day Ruf durch suggests one person you could get in touch with – the more important they are to you, the more often.",
+  "onboardingPrivacyText": "Everything stays encrypted on your phone. No account, no cloud, no internet permission.",
+  "onboardingImportTitle": "Get your contacts",
+  "onboardingImportText": "Take over contacts from your address book and sort them afterwards. You can add more later.",
+  "onboardingImported": "{count, plural, =0{No contacts yet} =1{1 contact in the app} other{{count} contacts in the app}}",
+  "@onboardingImported": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onboardingNotifyTitle": "When suits you?",
+  "onboardingNotifyText": "At this time the suggestion arrives as a notification – with “Not today”, “Call” and “WhatsApp”.",
+  "onboardingNotifyButton": "Allow notifications",
+  "onboardingNotifyOn": "Notifications are on",
+  "onboardingStart": "Let’s go",
+  "onboardingLater": "Later",
+  "settingsTitle": "Settings",
+  "settingsSuggestions": "Suggestions",
+  "settingsNotifications": "Daily notification",
+  "settingsNotificationsText": "With “Not today”, “Call” and “WhatsApp” right in the notification.",
+  "settingsTime": "Time",
+  "settingsDays": "On these days",
+  "settingsCountryCode": "Country code for WhatsApp",
+  "settingsCountryCodeText": "For numbers without a country code, e.g. 0171 …",
+  "settingsDiscreet": "Discreet: initials only",
+  "settingsDiscreetText": "Widget and watch show initials instead of names.",
+  "settingsContacts": "Contacts",
+  "settingsData": "Data",
+  "settingsPrivacy": "Privacy",
+  "settingsPrivacyText": "All data stays encrypted on this device. No account, no cloud, no internet permission, no analytics. From the address book the app only takes name and number, and only when you ask. It does not detect calls by itself – it counts what you tap or log in the app.",
+  "backupIntro": "Backup: all your data, encrypted in one file – for a new phone or just in case. It cannot be read without the password.",
+  "backupCreate": "Back up",
+  "backupRestore": "Restore",
+  "backupCreated": "Backup created",
+  "backupFailed": "Sorry, that did not work.",
+  "backupPassphrase": "Password",
+  "backupPassphraseCreateHint": "Choose a password for the backup. It cannot be restored without it – keep it safe!",
+  "backupPassphraseRestoreHint": "Backup password",
+  "backupPassphraseRepeat": "Repeat password",
+  "backupPassphraseMismatch": "Passwords do not match",
+  "backupPassphraseTooShort": "At least 8 characters",
+  "backupPick": "Choose backup",
+  "backupReplace": "Replace",
+  "backupRestoreConfirmTitle": "Replace all data?",
+  "backupRestoreConfirmText": "All contacts, the history and the settings on this device will be replaced by the backup.",
+  "backupRestored": "Backup from {date} restored",
+  "@backupRestored": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "backupShareSubject": "Ruf durch backup",
+  "backupTooNew": "This backup is from a newer app version. Please update the app.",
+  "backupUnsupported": "Backups are not available here.",
+  "backupWrongApp": "This is not a Ruf durch backup.",
+  "csvPeople": "Share contacts as table (CSV)",
+  "csvHistory": "Share history as table (CSV)",
+  "csvShareSubject": "Ruf durch – table",
+  "csvName": "Name",
+  "csvPhone": "Phone",
+  "csvImportance": "Importance",
+  "csvLastContact": "Last contact",
+  "csvPausedUntil": "Paused until",
+  "csvNote": "Note",
+  "csvDate": "Date",
+  "csvKind": "Type",
+  "notificationTitle": "Why not call {name} today? 📞",
+  "@notificationTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationBodyNew": "Today would be a good day for it.",
+  "notificationBodySince": "{count, plural, =1{You were last in touch yesterday.} other{You were last in touch {count} days ago.}}",
+  "@notificationBodySince": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationChannel": "Daily suggestion",
+  "notificationChannelDescription": "One contact a day you could get in touch with.",
+  "todaySuggestion": "Reach out today to",
+  "todayDone": "Done – nice that you got in touch!",
+  "todayDeclined": "Not today – there is a new suggestion tomorrow.",
+  "todayFree": "No suggestion scheduled for today.",
+  "todayFreeAction": "Suggest someone anyway",
+  "todayEmptyTitle": "No one to suggest yet",
+  "todayEmptyText": "Import your contacts and sort them by how important they are to you. Then you get a suggestion every day.",
+  "todayNobody": "No one is due right now. Nice that you are so well in touch!",
+  "todayImport": "Import contacts",
+  "todayUnrated": "{count, plural, =1{1 contact is not sorted yet} other{{count} contacts are not sorted yet}}",
+  "@todayUnrated": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaySort": "Sort",
+  "todayWeek": "{count, plural, =0{No contacts in the last 7 days} =1{1 contact in the last 7 days} other{{count} contacts in the last 7 days}}",
+  "@todayWeek": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "upcomingTitle": "Coming up",
+  "upcomingHint": "Preview – it changes with every call and every “Not today”.",
+  "upcomingEmpty": "No further suggestions",
+  "todayAnotherNone": "No one else is due right now.",
+  "triageTitle": "Sort contacts",
+  "triageProgress": "{done} of {total}",
+  "@triageProgress": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "triageQuestion": "How often do you want to get in touch with this person?",
+  "triageDoneTitle": "All sorted",
+  "triageDoneText": "From now on you get a suggestion every day. You can change the sorting on each contact at any time.",
+  "triageEmpty": "All contacts are sorted.",
+  "triageSkipped": "{count, plural, =1{1 skipped – will come up again later} other{{count} skipped – will come up again later}}",
+  "@triageSkipped": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "widgetTitle": "Call today",
+  "widgetDone": "Done",
+  "widgetDeclined": "Not today",
+  "widgetFree": "Day off",
+  "widgetEmpty": "Open Ruf durch to sort contacts"
+}

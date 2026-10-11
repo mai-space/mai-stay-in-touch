@@ -1,0 +1,13 @@
+{
+  "historyEmptyTitle": "No history yet",
+  "historyEmptyText": "Calls, messages and “Not today” show up here.",
+  "eventCalled": "Called",
+  "eventMessaged": "Sent a WhatsApp",
+  "eventDeclined": "Not today",
+  "eventNoted": "Contact logged",
+  "historyDeleted": "Entry deleted",
+  "historyRemovedPerson": "Removed contact",
+  "statsWeek": "Last 7 days",
+  "statsMonth": "Last 30 days",
+  "statsPeople": "Different people (30 days)"
+}
