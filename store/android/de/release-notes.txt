@@ -1,0 +1,1 @@
+Erste Version: jeden Tag ein Vorschlag, wen du anrufen könntest – mit Benachrichtigung, Widget und Wear-OS-Kachel. Alles lokal und verschlüsselt.

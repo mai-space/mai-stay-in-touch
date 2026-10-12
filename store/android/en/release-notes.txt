@@ -1,0 +1,1 @@
+First release: one suggestion a day for who to call – with notification, widget and Wear OS tile. Everything local and encrypted.

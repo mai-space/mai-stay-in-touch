@@ -1,0 +1,29 @@
+Kontakt halten scheitert selten am Wollen, sondern an der Frage „Wen eigentlich – und wann?“. Ruf durch nimmt dir diese Entscheidung ab: Du ordnest deine Kontakte einmal nach Wichtigkeit ein, danach schlägt dir die App jeden Tag genau eine Person vor, bei der du dich melden könntest.
+
+Kein schlechtes Gewissen, keine roten Zähler, keine To-do-Liste – nur ein freundlicher Vorschlag am Tag.
+
+SO FUNKTIONIERT’S
+• Kontakte übernehmen: aus deinem Adressbuch (nur Name und Telefonnummer, nur auf deinen Wunsch) oder von Hand anlegen.
+• Einordnen: Sehr wichtig (etwa wöchentlich), Oft (alle zwei Wochen), Ab und zu (monatlich), Selten (vierteljährlich) oder Nie vorschlagen.
+• Jeden Tag ein Vorschlag: Wer lange nichts von dir gehört hat und dir wichtig ist, ist eher dran. Wer gerade erst dran war, kommt nicht gleich wieder.
+• Eine Antwort genügt: Anrufen öffnet deine Telefon-App mit der Nummer, WhatsApp öffnet den Chat. „Heute nicht“ ist völlig in Ordnung.
+
+PRAKTISCH
+• Tägliche Benachrichtigung zu deiner Uhrzeit, an den Wochentagen, die du wählst – mit „Heute nicht“, „Anrufen“ und „WhatsApp“ direkt in der Mitteilung.
+• Vorschau: wer in den nächsten zwei Wochen voraussichtlich dran ist.
+• „Jemand anderen“, wenn es heute nicht passt, und „Kontakt eintragen“, wenn ihr euch auf anderem Weg gesprochen habt.
+• Verlauf mit kleiner Statistik: Kontakte in den letzten 7 und 30 Tagen.
+• Pausieren, z. B. während jemand im Urlaub ist.
+• Startbildschirm-Widget „Heute anrufen“ in mehreren Größen.
+• Wear OS: Kachel und Komplikation „Heute anrufen“ mit der Begleit-App für die Uhr.
+• Diskreter Modus: Widget und Uhr zeigen nur Initialen.
+• Die App lernt aus deinem eigenen Verlauf: Wer oft „Heute nicht“ bekommt, kommt seltener, bis ihr wieder Kontakt hattet.
+
+DEINE DATEN BLEIBEN BEI DIR
+• Kein Konto, keine Cloud, keine Werbung, keine Analyse.
+• Die App hat keine Internet-Berechtigung.
+• Alle Daten liegen verschlüsselt auf deinem Gerät.
+• Die App telefoniert nicht selbst und liest keine Anruflisten. Gezählt wird nur, was du in der App antippst oder einträgst.
+• Sicherung als passwortgeschützte, verschlüsselte Datei – für ein neues Handy oder zur Vorsorge. Kontakte und Verlauf auch als Tabelle (CSV) exportierbar.
+
+Auf Deutsch und Englisch, passend zur Sprache deines Geräts.
