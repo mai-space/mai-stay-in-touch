@@ -5,7 +5,7 @@ Apple Watch vorbereitet). Gleiche Prinzipien und gleicher Stack wie die
 anderen Mai-Apps. Angezeigter Name „Ruf durch“ (ohne „Mai“), Paket
 `space.mai.mai_stay_in_touch`, CI-Artefakte `mai-stay-in-touch.apk` und
 `mai-stay-in-touch-wear.apk`. UI Deutsch/Englisch nach Systemsprache.
-Konzept: `docs/KONZEPT.md`.
+Konzept: `project-docs/KONZEPT.md`.
 
 ## Datenschutz (Pflicht)
 
