@@ -1,0 +1,29 @@
+Staying in touch rarely fails for lack of wanting to. It fails at the question “Who, and when?”. Ruf durch (German for “give them a ring”) takes that decision off your hands: sort your contacts by how much they matter to you once, and every day the app suggests exactly one person you could reach out to.
+
+No guilt, no red badges, no to-do list – just one friendly suggestion a day.
+
+HOW IT WORKS
+• Bring in your contacts: from your address book (name and phone number only, only when you ask) or add them by hand.
+• Sort them: Very important (about weekly), Often (every two weeks), Now and then (monthly), Rarely (every three months) or Never suggest.
+• One suggestion a day: people who matter to you and haven’t heard from you in a while are more likely to come up. Someone you just talked to won’t come up again right away.
+• One tap is enough: Call opens your phone app with the number, WhatsApp opens the chat. “Not today” is perfectly fine.
+
+HANDY EXTRAS
+• Daily notification at your chosen time, on the weekdays you pick – with “Not today”, “Call” and “WhatsApp” right in the notification.
+• Coming up: who is likely next over the coming two weeks.
+• “Someone else” when today doesn’t suit, and “Log contact” when you talked some other way.
+• History with simple stats: contacts in the last 7 and 30 days.
+• Pause someone, for example while they are on holiday.
+• “Call today” home screen widget in several sizes.
+• Wear OS: “Call today” tile and complication with the companion watch app.
+• Discreet mode: widget and watch show initials only.
+• Learns from your own history: someone who often gets “Not today” comes up less until you are back in touch.
+
+YOUR DATA STAYS WITH YOU
+• No account, no cloud, no ads, no analytics.
+• The app has no internet permission.
+• All data is stored encrypted on your device.
+• The app doesn’t place calls itself and doesn’t read your call log. It only counts what you tap or log in the app.
+• Backup as a password-protected, encrypted file – for a new phone or just in case. Contacts and history can also be exported as a spreadsheet (CSV).
+
+Available in German and English, following your device language.
