@@ -33,7 +33,9 @@ android {
         // Wear OS 3+ (Kacheln, Komplikations-Datenquellen).
         minSdk = 30
         targetSdk = 36
-        versionCode = pubspecVersion.substringAfter("+", "1").toIntOrNull() ?: 1
+        // Play verlangt eindeutige Versionscodes je App (Telefon und Uhr
+        // teilen die applicationId): Uhr = 100000 + Build-Nummer.
+        versionCode = 100000 + (pubspecVersion.substringAfter("+", "1").toIntOrNull() ?: 1)
         versionName = pubspecVersion.substringBefore("+")
     }
 
