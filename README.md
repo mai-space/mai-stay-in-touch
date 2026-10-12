@@ -77,6 +77,57 @@ flutter build apk --release
 Die CI baut bei jedem Push die Release-APK (`mai-stay-in-touch.apk`), die
 Wear-OS-APK (`mai-stay-in-touch-wear.apk`) und die iOS-App ohne Signatur.
 
+### Release für den Play Store
+
+Store-Texte, Icon und Screenshots: [`store/android/`](store/android/README.md).
+
+Auf `main` baut die CI zusätzlich **signierte App Bundles**
+(`mai-stay-in-touch.aab` und `mai-stay-in-touch-wear.aab`, Artefakt
+`mai-stay-in-touch-aab`), sobald diese vier Repository-Secrets gesetzt sind
+(*Settings → Secrets and variables → Actions → New repository secret*):
+
+| Secret | Inhalt |
+|---|---|
+| `ANDROID_KEYSTORE_BASE64` | Upload-Keystore (`.jks`) als Base64 |
+| `ANDROID_KEYSTORE_PASSWORD` | Passwort des Keystores |
+| `ANDROID_KEY_ALIAS` | Alias des Schlüssels, z. B. `upload` |
+| `ANDROID_KEY_PASSWORD` | Passwort des Schlüssels |
+
+Ohne Secrets läuft die CI wie bisher (APKs mit Debug-Schlüssel).
+
+**Upload-Schlüssel einmalig erzeugen** (außerhalb des Repos aufbewahren
+und sicher sichern; mit Play-App-Signatur ist es nur der Upload-Schlüssel,
+Google verwaltet den eigentlichen App-Signaturschlüssel):
+
+```bash
+keytool -genkeypair -v -keystore ~/keys/ruf-durch-upload.jks \
+  -keyalg RSA -keysize 4096 -validity 10000 -alias upload
+
+# Inhalt für ANDROID_KEYSTORE_BASE64
+base64 -w0 ~/keys/ruf-durch-upload.jks        # Linux
+base64 -i ~/keys/ruf-durch-upload.jks | pbcopy  # macOS (in die Zwischenablage)
+```
+
+**Lokal signiert bauen:** `android/key.properties` anlegen (steht in
+`.gitignore`, nie committen); `storeFile` ist relativ zu `android/app`:
+
+```properties
+storeFile=/home/ich/keys/ruf-durch-upload.jks
+storePassword=…
+keyAlias=upload
+keyPassword=…
+```
+
+```bash
+flutter build appbundle --release
+(cd android && ./gradlew :wear:bundleRelease)
+```
+
+Telefon- und Uhr-App teilen die `applicationId` und werden in derselben
+Play-App veröffentlicht (Uhr unter *Formfaktor Wear OS*). Die Uhr-App
+bekommt deshalb den Versionscode `100000 + Build-Nummer`, damit beide
+eindeutig sind.
+
 ### iOS / Apple Watch
 
 Bundle-IDs `space.mai.maiStayInTouch` (+ `.watchkitapp`,
